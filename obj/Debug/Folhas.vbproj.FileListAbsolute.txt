@@ -1,0 +1,10 @@
+C:\Desenvolvimento\Folhas\Folhas\bin\Debug\Folhas.exe
+C:\Desenvolvimento\Folhas\Folhas\bin\Debug\Folhas.pdb
+C:\Desenvolvimento\Folhas\Folhas\bin\Debug\Folhas.xml
+C:\Desenvolvimento\Folhas\Folhas\obj\Debug\ResolveAssemblyReference.cache
+C:\Desenvolvimento\Folhas\Folhas\obj\Debug\Folhas.Form1.resources
+C:\Desenvolvimento\Folhas\Folhas\obj\Debug\Folhas.Resources.resources
+C:\Desenvolvimento\Folhas\Folhas\obj\Debug\Folhas.vbproj.GenerateResource.Cache
+C:\Desenvolvimento\Folhas\Folhas\obj\Debug\Folhas.exe
+C:\Desenvolvimento\Folhas\Folhas\obj\Debug\Folhas.xml
+C:\Desenvolvimento\Folhas\Folhas\obj\Debug\Folhas.pdb
